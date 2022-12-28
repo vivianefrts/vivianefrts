@@ -10,6 +10,7 @@
 <div align="center">  
 <a href="https://www.instagram.com/anne.frts_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238E84FA?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/viviane-moreira-frts8318/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ <a href="https://www.dicord.com/vivi.frts#9185/" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </div> 
   
   ### Main skills:
