@@ -28,3 +28,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{vivianefrts}/count.svg" /></p> 
 <br></div>
+  
+ ![Snake animation](https://github.com/vivianefrts/vivianefrts/blob/output/github-contribution-grid-snake.svg)
