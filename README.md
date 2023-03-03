@@ -8,10 +8,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vivianefrts&bg_color=000000&color=624c9e&line=772e9e&point=649ac4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<a href="https://www.linkedin.com/in/viviane-moreira-frts8318/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://www.instagram.com/anne.frts_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238E84FA?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.dicord.com/vivi.frts#9185/" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<a href = "mailto:viviane.freitas8318@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/viviane-moreira-frts8318/" target="_blank"><img src="https://img.shields.io/badge/linkedin-5a189a.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.instagram.com/anne.frts_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-7b2cbf?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.dicord.com/vivi.frts#9185/" target="_blank"> <img src="https://img.shields.io/badge/Discord-9d4edd?style=for-the-badge&logo=discord&logoColor=white" />
+<a href = "mailto:viviane.freitas8318@gmail.com"><img src="https://img.shields.io/badge/Gmail-6a4c93?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
   
   ### Main skills:
